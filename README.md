@@ -10,6 +10,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **prbodharg1954@gmail.com**
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
