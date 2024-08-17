@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🔭 I’m currently working on **Student From NIBM**
+- 🔭 I'm currently studying for Bsc. (Hons.) Software Engineering at NIBM
 
 - 🌱 I’m currently learning **Java**
 
