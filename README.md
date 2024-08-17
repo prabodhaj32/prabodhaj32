@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Prabodha Jayawardhana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabodhaj32&label=Profile%20views&color=0e75b6&style=flat" alt="prabodhaj32" /> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 - 🔭 I’m currently working on **Student From NIBM**
 
