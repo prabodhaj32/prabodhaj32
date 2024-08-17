@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me **prbodharg1954@gmail.com**
 
