@@ -1,4 +1,4 @@
-<a href="#"><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture></a>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
 <h2 align="left"> I'm Prabodha Jayawardhana</h2>
 <p align="center">
