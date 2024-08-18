@@ -19,6 +19,7 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
+<a href="https://linkedin.com/in/prabodha jayawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabodha jayawardhana" height="30" width="40" /></a>
 <a href="https://fb.com/prabodha jayawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabodha jayawardhana" height="30" width="40" /></a>
 <a href="https://instagram.com/prabodha_j32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabodha_j32" height="30" width="40" /></a>
 <a href="https://discord.gg/prabodhaj32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prabodhaj32" height="30" width="40" /></a>
