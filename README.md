@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <h2 align="left"> I'm Prabodha Jayawardhana</h2>
 <p align="center">
