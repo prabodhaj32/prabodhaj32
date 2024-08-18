@@ -1,12 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h2 align="left"> I'm Prabodha Jayawardhana</h2>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
 </p>
 
-<br><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture></br>
 
 
 - 🔭 I'm currently studying for Bsc. (Hons.) Software Engineering at NIBM
@@ -16,7 +14,8 @@
 - 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me **prbodharg1954@gmail.com**
-
+- 
+<br><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture></br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
