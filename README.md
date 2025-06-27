@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently studying for Bsc. (Hons.) Software Engineering at NIBM
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Web Developer 
 
 - 💬 Ask me about anything, I am happy to help.
 
